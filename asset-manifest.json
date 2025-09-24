@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.a6765e68.js",
-    "static/js/584.acc29956.chunk.js": "/static/js/584.acc29956.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.a6765e68.js.map": "/static/js/main.a6765e68.js.map",
-    "584.acc29956.chunk.js.map": "/static/js/584.acc29956.chunk.js.map"
+    "main.css": "/OSC_Workout_App/static/css/main.f855e6bc.css",
+    "main.js": "/OSC_Workout_App/static/js/main.d9804412.js",
+    "static/js/584.acc29956.chunk.js": "/OSC_Workout_App/static/js/584.acc29956.chunk.js",
+    "service-worker.js": "/OSC_Workout_App/service-worker.js",
+    "static/media/logo.svg": "/OSC_Workout_App/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/OSC_Workout_App/index.html",
+    "main.f855e6bc.css.map": "/OSC_Workout_App/static/css/main.f855e6bc.css.map",
+    "main.d9804412.js.map": "/OSC_Workout_App/static/js/main.d9804412.js.map",
+    "584.acc29956.chunk.js.map": "/OSC_Workout_App/static/js/584.acc29956.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a6765e68.js"
+    "static/js/main.d9804412.js"
   ]
 }
