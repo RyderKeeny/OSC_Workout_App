@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/OSC_Workout_App/static/css/main.f855e6bc.css",
-    "main.js": "/OSC_Workout_App/static/js/main.d9804412.js",
+    "main.js": "/OSC_Workout_App/static/js/main.b1471e0f.js",
     "static/js/584.acc29956.chunk.js": "/OSC_Workout_App/static/js/584.acc29956.chunk.js",
     "service-worker.js": "/OSC_Workout_App/service-worker.js",
-    "static/media/logo.svg": "/OSC_Workout_App/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/OSC_Workout_App/index.html",
     "main.f855e6bc.css.map": "/OSC_Workout_App/static/css/main.f855e6bc.css.map",
-    "main.d9804412.js.map": "/OSC_Workout_App/static/js/main.d9804412.js.map",
+    "main.b1471e0f.js.map": "/OSC_Workout_App/static/js/main.b1471e0f.js.map",
     "584.acc29956.chunk.js.map": "/OSC_Workout_App/static/js/584.acc29956.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d9804412.js"
+    "static/js/main.b1471e0f.js"
   ]
 }
